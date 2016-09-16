@@ -2,6 +2,10 @@ PayPal Cordova Plugin Release Notes
 ===================================
 TODO
 -----
+* iOS: Update to card.io 5.4.1.
+
+TODO
+-----
 * iOS: Fix issue with Bitcode when archiving [#443](https://github.com/paypal/PayPal-iOS-SDK/issues/443).
 * iOS: If you use card.io to scan credit cards, you should add the key
   [`NSCameraUsageDescription`](https://developer.apple.com/library/prerelease/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40009251-SW24)
